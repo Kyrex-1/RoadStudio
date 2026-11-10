@@ -62,7 +62,7 @@ RoadStudio(이하 "프로그램")는 도로 표지판을 만드는 Windows 프�
 ## 8. 연락처
 
 - 운영자: RoadStudio 제작자
-- 이메일: <지원 이메일>
+- 이메일: hedol2010@naver.com
 - 프로젝트: https://github.com/Kyrex-1/RoadStudio
 
 ## 9. 방침의 변경
